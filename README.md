@@ -6,4 +6,6 @@ sudo apt-get update
 sudo apt install nginx
 
 sudo systemctl start nginx
-sudo systemctl enable nginx
+sudo systemctl enable nginix
+
+webpage is kept in /var/www/html
